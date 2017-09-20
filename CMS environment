@@ -1,0 +1,3 @@
+cmsrel CMSSW_7_4_15
+cd CMSSW_7_4_15/src
+cmsenv
